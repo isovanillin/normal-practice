@@ -1,2 +1,2 @@
-# normal-practice
+### `⌨️ normal-practice`
 essentially everything that's minor projects
